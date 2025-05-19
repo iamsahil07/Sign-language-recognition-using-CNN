@@ -53,6 +53,17 @@ An advanced and interactive Sign Language Recognition (SLR) system leveraging **
 
 ---
 
+💯 Results:
+
+The Sign Language Recognition (SLR) system successfully demonstrated:
+
+📈 High Accuracy: Efficiently recognized static ASL letters with near-perfect precision.
+🚀 Real-Time Interaction: Maintained smooth and responsive performance even during continuous input.
+🗣️ Seamless Speech Output: Immediate voice feedback after forming complete sentences.
+📝 User Usability: Easy sentence correction, editing, and finalization, ensuring practical use in real-world scenarios.
+
+---
+
 #### 🌍 **Applications:**
 
 * 🧑‍🤝‍🧑 **Assistive Technology:** Helping individuals with hearing or speech disabilities communicate efficiently.
@@ -68,4 +79,3 @@ An advanced and interactive Sign Language Recognition (SLR) system leveraging **
 * 📱 **Mobile Deployment:** Optimize the model for low-power devices to enhance accessibility.
 * 📝 **Dynamic Gesture Recognition:** Support for gestures representing entire words or phrases.
 
----
