@@ -108,7 +108,7 @@ from flask_cors import CORS
 from collections import Counter
 
 # Load YOLOv11 model
-model = YOLO(r'/Users/sahil/Downloads/pirosign2/backend/best.pt')
+model = YOLO(r'/Users/sahil/Downloads/Final/backend/best.pt')
 
 # Flask app setup
 app = Flask(__name__)
